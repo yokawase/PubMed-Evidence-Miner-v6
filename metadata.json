@@ -1,0 +1,5 @@
+{
+  "name": "Evidence Miner v4.5 - PubMed Analyzer",
+  "description": "A high-end medical research tool that extracts MeSH terms, searches PubMed in real-time, translates abstracts, and synthesizes clinical evidence using Gemini AI.",
+  "requestFramePermissions": []
+}
